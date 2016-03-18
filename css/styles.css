@@ -18,8 +18,8 @@ img {
 }
 
 .col-sm-4 {
-    width: 305px;
-    padding: 40px;
+    width: 333px;
+    padding: 10px;
     border: 1px solid gray;
     margin: 4px;
     background-color: #ecf0f1;
@@ -42,9 +42,17 @@ ol {
 }
 
 .col-xs-12 {
-    width:
     padding: 40px;
     border: 1px solid gray;
-    margin: px;
+    max-width: 1000px;
     background-color: #ecf0f1;
+    margin-top: 4px;
+}
+
+.col-sm-6 {
+    padding: 40px;
+    border: 1px solid gray;
+    max-width: 1000px;
+    background-color: #ecf0f1;
+    margin-top: 4px;
 }
