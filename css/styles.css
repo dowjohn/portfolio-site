@@ -20,8 +20,8 @@ img {
 .col-sm-4 {
     width: 305px;
     padding: 40px;
-    border: 3px solid gray;
-    margin: 5px;
+    border: 1px solid gray;
+    margin: 4px;
     background-color: #ecf0f1;
     float: left;
 }
@@ -39,4 +39,12 @@ body {
 ol {
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.col-xs-12 {
+    width:
+    padding: 40px;
+    border: 1px solid gray;
+    margin: px;
+    background-color: #ecf0f1;
 }
