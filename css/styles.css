@@ -1,6 +1,6 @@
 .jumbotron {
-
     margin-top: 80px;
+    max-width: 1000px;
 }
 
 #color {
@@ -17,4 +17,18 @@
 
 img {
     height: 100px;
+}
+
+.col-sm-4 {
+    width: 300px;
+    padding: 40px;
+    border: 3px solid gray;
+    margin: 5px;
+    background-color: #ecf0f1;
+    float: left;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30pt;
 }
