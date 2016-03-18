@@ -10,6 +10,8 @@
 
 ###URL: View @ http://johndeezy.github.io/portfolio/ and dowload @ https://github.com/johndeezy/portfolio.git
 
+###Setup: Download through GitHub and open index html in chrome
+
 ###The MIT License (MIT)
 
 Copyright (c) 2016 John Dow
