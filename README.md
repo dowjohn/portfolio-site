@@ -1,14 +1,14 @@
-# bassoon
+# Portfolio
 
-##epicodus project 1
+##Epicodus Project 1
 
 ###Author: John Dow
 
-###Description: A webpage for the sale of bassoon reeds
+###Description: A portfolio webpage
 
 ###Download through GitHub
 
-###URL: http://johndeezy.github.io/bassoon/
+###URL: View @ http://johndeezy.github.io/portfolio/ and dowload @ https://github.com/johndeezy/portfolio.git
 
 ###The MIT License (MIT)
 
