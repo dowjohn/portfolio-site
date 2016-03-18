@@ -49,10 +49,11 @@ ol {
     margin-top: 4px;
 }
 
-.col-sm-6 {
+.col-md-6 {
     padding: 40px;
     border: 1px solid gray;
-    max-width: 1000px;
+    max-width: 480px;
     background-color: #ecf0f1;
     margin-top: 4px;
+    margin-right: 4px;
 }
