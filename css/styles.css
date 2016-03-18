@@ -4,7 +4,6 @@
 }
 
 #color {
-    color: #34495e;
     text-align: center;
 }
 
@@ -34,6 +33,7 @@ h3 {
 body {
     float: center;
     font-family: monospace;
+    text-align: center;
 }
 
 ol {
@@ -42,7 +42,7 @@ ol {
 }
 
 .col-xs-12 {
-    padding: 40px;
+    padding: 30px;
     border: 1px solid gray;
     max-width: 1000px;
     background-color: #ecf0f1;
@@ -56,4 +56,19 @@ ol {
     background-color: #ecf0f1;
     margin-top: 4px;
     margin-right: 4px;
+}
+
+.contact p {
+    font-size: 15pt;
+    text-align: center;
+}
+
+.contact ul {
+    text-align: center;
+    list-style: none;
+}
+
+.contact img {
+    height: 200px;
+    width 80px;
 }
