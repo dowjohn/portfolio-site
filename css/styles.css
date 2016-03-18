@@ -51,13 +51,6 @@ ol {
     height: 350px;
 }
 
-@media only screen and (max-width: 480px) {
-    {
-        
-    }
-}
-
-
 .contact p {
     font-size: 15pt;
     text-align: center;
