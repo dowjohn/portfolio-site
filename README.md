@@ -2,15 +2,15 @@
 
 ##epicodus project 1
 
-#Author: John Dow
+###Author: John Dow
 
-#Description: A webpage for the sale of bassoon reeds
+###Description: A webpage for the sale of bassoon reeds
 
-#Download through GitHub
+###Download through GitHub
 
-#URL: http://johndeezy.github.io/bassoon/
+###URL: http://johndeezy.github.io/bassoon/
 
-#The MIT License (MIT)
+###The MIT License (MIT)
 
 Copyright (c) 2016 John Dow
 
