@@ -6,12 +6,10 @@
 #color {
     color: #34495e;
     text-align: center;
-    font-family: monospace;
 }
 
 #color p {
     font-weight: bold;
-    font-family: cursive;
     font-size: 12pt;
 }
 
@@ -35,4 +33,10 @@ h3 {
 
 body {
     float: center;
+    font-family: monospace;
+}
+
+ol {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
