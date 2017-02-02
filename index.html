@@ -10,7 +10,25 @@
         <title>Innovative!</title>
     </head>
     <body>
-        <div id="customNavbar">
+        <div role="navigation">
+            <div class="navbar navbar-default navbar-fixed-top">
+                <div class="container container-fluid">
+                    <div class="navbar-header nav-tabs">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand animated fadeIn" href="index.html">Home</a>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav nav-tabs">
+                          <li><a href="about-me.html">About Me</a></li>
+                          <li><a href="project-history.html">Project History</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="container" id="top">
             <div class="row">
@@ -36,10 +54,8 @@
                 </div>
                 <div class="col-sm-4">
                     <h3>Indomitable</h3>
-
-                        <p>I leave no stone unturned and no concept unlearned, always seeking <em><strong>victory</em></strong> and <em><strong>self-improvement</strong></em> with <em><strong>challenging</em></strong> projects that excite and invigorate me</p>
-                        <img src="images/indomitable.jpg" alt="image of Mt. Everest"></img>
-
+                    <p>I leave no stone unturned and no concept unlearned, always seeking <em><strong>victory</em></strong> and <em><strong>self-improvement</strong></em> with <em><strong>challenging</em></strong> projects that excite and invigorate me</p>
+                    <img src="images/indomitable.jpg" alt="image of Mt. Everest"></img>
                 </div>
             </div>
         </div>
@@ -47,10 +63,5 @@
         <script src="js/jquery-3.1.1.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="css/bootstrap/js/bootstrap.min.js"></script>
-        <script>
-          $(function(){
-            $("#customNavbar").load("custom-navbar.html");
-          });
-        </script>
     </body>
 </html>
