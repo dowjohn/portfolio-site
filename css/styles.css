@@ -1,3 +1,16 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+    font-family: monospace;
+    text-align: center;
+}
+
+#top {
+    padding-top: 75px;
+}
+
 #color {
     text-align: center;
 }
@@ -11,12 +24,9 @@ img {
     height: 100px;
 }
 
-.col-sm-4 {
-    padding: 10px;
-    border: 1px solid gray;
-    background-color: #ecf0f1;
-    float: left;
-    height: 350px
+.contact img {
+    height: 200px;
+    width: 80px;
 }
 
 h1 {
@@ -28,9 +38,11 @@ h3 {
     font-size: 30pt;
 }
 
-body {
-    font-family: monospace;
-    text-align: center;
+.col-sm-4 {
+    padding: 10px;
+    border: 1px solid gray;
+    background-color: #ecf0f1;
+    height: 350px
 }
 
 .col-xs-12 {
@@ -54,13 +66,4 @@ body {
 .contact ul {
     text-align: center;
     list-style: none;
-}
-
-.contact img {
-    height: 200px;
-    width: 80px;
-}
-
-#top {
-    padding-top: 75px;
 }
