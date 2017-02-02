@@ -33,11 +33,6 @@ body {
     text-align: center;
 }
 
-ol {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 .col-xs-12 {
     padding: 30px;
     border: 1px solid gray;
@@ -63,7 +58,7 @@ ol {
 
 .contact img {
     height: 200px;
-    width 80px;
+    width: 80px;
 }
 
 #top {
