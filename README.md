@@ -8,7 +8,7 @@
 
 ###Download through GitHub
 
-###URL: View @ http://johndeezy.github.io/portfolio/ and dowload @ https://github.com/johndeezy/portfolio.git
+###URL: View @ http://dowjohn.github.io/portfolio/ and dowload @ https://github.com/dowjohn/portfolio.git
 
 ###Setup: Download through GitHub and open index html in chrome
 
